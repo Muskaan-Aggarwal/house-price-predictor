@@ -12,7 +12,7 @@
 6. matplotlib 3.3 or later
 ### Installation
 1. Clone the repository: 'git clone https://github.com/Muskaan-Aggarwal/house-price-prediction.git'
-2. Install the required packages: 'pip install -r requirements.txt'
+
 ### Running the Model
 1. Run the training.py script to train the model: python training.py
 2. Run the evaluating.py script to make predictions on new data: python evaluating.py
